@@ -1,3 +1,8 @@
+# Arhur
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # RSA Encryption Demo
 
 This is a simple Python application that demonstrates RSA encryption and decryption using the `rsa` library and a graphical user interface (GUI) created with the `tkinter` library.
